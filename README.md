@@ -105,6 +105,11 @@ Interactive Tableau Public dashboard built on the cleaned Nashville housing data
 
 👉 View the dashboard here: https://public.tableau.com/app/profile/min.khant.zaw/viz/nashville_housing_dashboard/NashvilleHousingOverview?publish=yes
 
+## Insights from Analysis
+- Average sale prices increased from 2013 to 2016, with 2015-2016 generally above 2013-2014.
+- Prices show mild seasonally, often higher in mid-year and late-year months.
+- 2-4 bedroom properties form the core of the market (around X–Y €), while 5+ bedroom homes sell at a significant premium.
+- Large commercial and institutional property types (e.g., apartments, offices) have much higher average sale values than typical single‑family homes and condos.
 
 ---
 
