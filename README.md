@@ -98,6 +98,14 @@ GROUP BY "Parcel ID", "Sale Date", "Sale Price"
 3. Run the queries in `nashville_data_cleaning.sql`
 4. Verify results using the verification queries at the end
 
+
+## Tableau Dashboard
+
+Interactive Tableau Public dashboard built on the cleaned Nashville housing dataset:
+
+👉 View the dashboard here: https://public.tableau.com/app/profile/min.khant.zaw/viz/nashville_housing_dashboard/NashvilleHousingOverview?publish=yes
+
+
 ---
 
 ## Author
