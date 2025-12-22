@@ -117,7 +117,7 @@ Interactive Tableau Public dashboard built on the cleaned Nashville housing data
 **Min Khant Zaw**
 Software Engineering Student | TAMK
 
-**Technical Skills:** SQL, PostgreSQL, Tableau, Java, Spring Boot, Docker
+**Technical Skills:** SQL, PostgreSQL, Tableau
 
 ## Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/minzaw)
